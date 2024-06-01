@@ -1,23 +1,23 @@
-This is a restransitioned [fork](https://github.com/HIHIQY1/pride-overlay)
+Dieses Projekt stellt einen angepassten [Fork](https://github.com/HIHIQY1/pride-overlay) dar.
 
 # Stolzmonat Generator  
-Create a #Stolzmonat profile picture overlay  
+Erstelle ein #Stolzmonat Profilbild-Overlay  
 
 
 ## Installation
 
-> NodeJs requiered
+> NodeJs erforderlich
 
-clone repo
-run `npm install`
+Repo klonen
+`npm install` ausführen
 
-start application in dev mode
+Anwendung im Entwicklungsmodus starten
 `npm run dev`
 
 
-build application
+Anwendung erstellen
 `npm run build`
 
-## Special Thanks ❤️
+## Besonderer Dank ❤️
 
-* [Matthias Helferich's Remigration](https://matthiashelferich.de/remigration/)
+* [Matthias Helferichs Remigration](https://matthiashelferich.de/remigration/)
