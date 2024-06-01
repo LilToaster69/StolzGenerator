@@ -7,14 +7,14 @@
   <img src={appIcon} alt="" />
   <div>
     {@html $_("header")}
-    <br />{@html $_("by")} <a href="https://twitter.com/Fry2412">HFZ</a>
-    <br />2023 - 2333
+    <br />{@html $_("by")} <a href="https://github.com/LilToaster69">DarkToaster</a>
+    <br />2024
   </div>
   <div id="footer-icons">
     <a
       class="icon"
       title="This app on GitHub"
-      href="https://github.com/Stolzmonat/StolzGenerator"
+      href="https://github.com/LilToaster69/StolzGenerator"
     >
       <img
         alt="GitHub icon"
