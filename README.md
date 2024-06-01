@@ -21,4 +21,4 @@ Anwendung erstellen
 ## Besonderer Dank ❤️
 
 * [Matthias Helferichs Remigration](https://matthiashelferich.de/remigration/)
-* [Stolzmonat/StolzGenerator] (https://github.com/Stolzmonat/StolzGenerator)
+* [Stolzmonat/StolzGenerator](https://github.com/Stolzmonat/StolzGenerator)
