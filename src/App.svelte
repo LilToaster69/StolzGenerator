@@ -27,7 +27,7 @@
   import LocaleSelector from "./lib/LocaleSelector.svelte";
 
   let selectedFiles: File[] = [];
-  let selectedFlag: string = "German Pride";
+  let selectedFlag: string = "Deutscher Stolz";
   let secondaryFlag: string = "German Classic Pride";
   let cutoutSize: number = 80;
   let isGradient: boolean = false;
